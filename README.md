@@ -1,2 +1,2 @@
-# sgpt6-game
+# ssgpt6.com
 Game
