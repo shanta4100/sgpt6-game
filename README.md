@@ -1,2 +1,1 @@
-# ssgpt6.com
-Game
+ssgpt6com.vercel.app
